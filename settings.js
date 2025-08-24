@@ -1,5 +1,5 @@
 const settings = {
-  packname: 'Technova Infinity',
+  packname: 'KnightbotMD',
   author: '‎',
   botName: "Technova Infinity",
   botOwner: 'Sean Joseph Kenamu', // Your name
